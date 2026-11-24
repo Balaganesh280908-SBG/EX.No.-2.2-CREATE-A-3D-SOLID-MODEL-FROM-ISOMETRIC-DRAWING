@@ -28,17 +28,17 @@ Extrude it to a distance of -10 mm. Using that as the base, create two concentri
 ## Step 4 
 Create a rib line of 12 mm. Once done, click Finish Sketch.
 
-<img width="200" height="610" alt="image" src="https://github.com/user-attachments/assets/50819031-defe-4e58-96c7-300ef138a7ca" />
+# <img width="200" height="610" alt="image" src="https://github.com/user-attachments/assets/50819031-defe-4e58-96c7-300ef138a7ca" />
 
-<img width="230" height="130" alt="image" src="https://github.com/user-attachments/assets/59d9dbe7-85f5-4ead-bf45-3d8833f6fcad" />
+# <img width="230" height="130" alt="image" src="https://github.com/user-attachments/assets/59d9dbe7-85f5-4ead-bf45-3d8833f6fcad" />
 
 
 ## Step 5 
 Go to Design, choose Drawing and select From Design. Place the front view, top view, side view and isometric view on the sheet.
 
-<img width="310" height="337" alt="image" src="https://github.com/user-attachments/assets/82fdedbb-81bc-4167-b77b-8007fb1b26ab" />
+# <img width="310" height="337" alt="image" src="https://github.com/user-attachments/assets/82fdedbb-81bc-4167-b77b-8007fb1b26ab" />
 
-<img width="541" height="350" alt="image" src="https://github.com/user-attachments/assets/a759075f-c330-4705-a3b4-b73b0c1c530d" />
+# <img width="541" height="350" alt="image" src="https://github.com/user-attachments/assets/a759075f-c330-4705-a3b4-b73b0c1c530d" />
 
 
 
